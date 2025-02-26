@@ -1,0 +1,4 @@
+Sample	Unique Reads	Duplicate Reads
+HG00103.final_1	6093745	575749
+HG03280.final_1	4157518	293980
+NA18966.final_1	6139581	589727

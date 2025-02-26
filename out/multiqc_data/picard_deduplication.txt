@@ -1,0 +1,4 @@
+Sample	Unique Pairs	Unique Unpaired	Duplicate Pairs Optical	Duplicate Pairs Nonoptical	Duplicate Unpaired	Unmapped
+HG00103.final_1	5960708	15411	86458	586890	2308	17719
+HG03280.final_1	4136228	10234	38846	253404	1276	11510
+NA18966.final_1	5963460	18159	94144	630046	2670	20829

@@ -1,0 +1,13 @@
+Name	X	Y
+NA18966.final_1	10	10.0
+NA18966.final_1	20	17.0
+NA18966.final_1	30	33.0
+NA18966.final_1	6	8.0
+HG00103.final_1	10	10.0
+HG00103.final_1	20	17.0
+HG00103.final_1	30	33.0
+HG00103.final_1	6	8.0
+HG03280.final_1	10	10.0
+HG03280.final_1	20	17.0
+HG03280.final_1	30	35.0
+HG03280.final_1	6	8.0
