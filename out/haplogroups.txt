@@ -1,0 +1,4 @@
+"SampleID"	"Haplogroup"	"Rank"	"Quality"	"Range"
+"HG00103.final_1.fastq"	"H2a2a1"	"1"	"0.5000"	"1-16569"
+"HG03280.final_1.fastq"	"H2a2a1"	"1"	"0.5000"	"1-16569"
+"NA18966.final_1.fastq"	"H2a2a1"	"1"	"0.5000"	"1-16569"
