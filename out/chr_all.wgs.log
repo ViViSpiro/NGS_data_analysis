@@ -1,0 +1,35 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --allow-extra-chr
+  --autosome
+  --biallelic-only
+  --double-id
+  --geno 0.1
+  --genome
+  --out chr_all.wgs
+  --snps-only
+  --vcf out/chr_all_final_renamed.vcf.gz
+
+Hostname: ngs
+Working directory: /home/stud08/exome_analysis
+Start time: Sat Feb 15 00:31:16 2025
+
+Random number seed: 1739568676
+48172 MB RAM detected; reserving 24086 MB for main workspace.
+--vcf: chr_all.wgs-temporary.bed + chr_all.wgs-temporary.bim +
+chr_all.wgs-temporary.fam written.
+(559 variants skipped.)
+33923 out of 34847 variants loaded from .bim file.
+3 people (0 males, 0 females, 3 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to chr_all.wgs.nosex .
+Using up to 15 threads (change this with --threads).
+Before main variant filters, 3 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.884818.
+11010 variants removed due to missing genotype data (--geno).
+22913 variants and 3 people pass filters and QC.
+Note: No phenotypes present.
+IBD calculations complete.
+Finished writing chr_all.wgs.genome .
+
+End time: Sat Feb 15 00:31:16 2025
