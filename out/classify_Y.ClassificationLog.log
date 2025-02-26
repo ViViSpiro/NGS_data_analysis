@@ -1,0 +1,16 @@
+[2025-02-16 16:13:24,527] - [INFO]: [Y-LineageTracker] [Y-Haplogroup Classification]
+[2025-02-16 16:13:24,527] - [INFO]: [Y-LineageTracker] Run Date: Sun Feb 16 16:13:24 2025
+[2025-02-16 16:13:24,527] - [INFO]: [Y-LineageTracker] Input File: chr_all_final_renamed.vcf.gz
+[2025-02-16 16:13:24,527] - [INFO]: [Y-LineageTracker] File Format: gzvcf
+[2025-02-16 16:13:24,527] - [INFO]: [Y-LineageTracker] Reference Build: 38
+[2025-02-16 16:13:24,527] - [INFO]: [Y-LineageTracker] Data Type: WGS
+[2025-02-16 16:13:24,769] - [INFO]: [Y-LineageTracker] Reading input file...
+[2025-02-16 16:13:24,936] - [INFO]: [Y-LineageTracker] Input file Read
+[2025-02-16 16:13:24,947] - [INFO]: [Y-LineageTracker] There are 3 individuals in input file
+[2025-02-16 16:13:24,969] - [INFO]: [Y-LineageTracker] Matching variants and sites to ISOGG reference finished
+[2025-02-16 16:13:24,990] - [WARNING]: [Y-LineageTracker] [Warning] There are no mutation matched for sample HG00103.final_1.fastq
+[2025-02-16 16:13:24,990] - [WARNING]: [Y-LineageTracker] [Warning] There are no mutation matched for sample HG03280.final_1.fastq
+[2025-02-16 16:13:24,999] - [INFO]: [Y-LineageTracker] Classification and Tracking haplogroup lineages finished
+[2025-02-16 16:13:25,000] - [INFO]: [Y-LineageTracker] [Warning] HG00103.final_1.fastq, HG03280.final_1.fastq cannot classify haplogroup due to few or mismatched sites
+[2025-02-16 16:13:25,000] - [INFO]: [Y-LineageTracker] Haplogroup classification done
+[2025-02-16 16:13:25,001] - [INFO]: [Y-LineageTracker] Total run time: 0.48s

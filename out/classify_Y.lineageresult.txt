@@ -1,0 +1,4 @@
+SampleID	Haplogroup	KeyHaplogroup	Mutations	LineageTrack
+HG00103.final_1.fastq	.	.	.	.
+HG03280.final_1.fastq	.	.	.	.
+NA18966.final_1.fastq	D1	.	M174/Page30	D1(1/101)->D->DE(1/28)->CT->BT->A1b->A1->A0T->A00T->A000T->Y-Adam
